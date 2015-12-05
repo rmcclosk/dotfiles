@@ -8,6 +8,8 @@ Public
 Templates
 Videos
 
+package.lst
+
 .ICEauthority
 .Xauthority
 .adobe
@@ -19,10 +21,13 @@ Videos
 .gconf
 .gnome
 .gstreamer*
+.java
 .local
 .macromedia
 .mame
 .pki
 .profile
+.python_history
+.ssh
 .viminfo
-.xsession-errors
+.xsession-errors*
